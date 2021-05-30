@@ -13,3 +13,11 @@ are the results of 8:2 spliting of the original train.csv (We do our fine tuning
 logistic_regression.ipynb: The notebook for running logisitic regression
 
 BERT.ipynb: The notebook for training/testing on BERT model performance
+
+LSTM_keras.ipynb: The notebook for training/testing on LSTM model performance (wrote in Keras)
+
+BiLSTM_Keras.ipynb:The notebook for training/testing on BiLSTM model performance (wrote in Keras)
+
+BiLSTM_Keras_attention.ipynb: The notebook for training/testing on BiLSTM model with attention layer's performance
+
+blending_embeddings_model.ipynb: The notebook for training/testing on BiLSTM model with attention layer, also with a blend of prediction results from GloVe and Wiki news embedding. 
