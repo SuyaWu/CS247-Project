@@ -12,6 +12,8 @@ are the results of 8:2 spliting of the original train.csv (We do our fine tuning
 ### Note: all the file paths are in local (i.e: train_path=pd.read_csv("./data/train.csv"), please create a local folder for data to store the CSVs
 logistic_regression.ipynb: The notebook for running logisitic regression
 
+CNN.ipynb:  The notebook for training/testing on CNN model performance
+
 BERT.ipynb: The notebook for training/testing on BERT model performance
 
 LSTM_keras.ipynb: The notebook for training/testing on LSTM model performance (wrote in Keras)
