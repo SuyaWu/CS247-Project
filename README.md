@@ -14,7 +14,7 @@ logistic_regression.ipynb: The notebook for running logisitic regression
 
 CNN.ipynb:  The notebook for training/testing on CNN model performance
 
-BERT.ipynb: The notebook for training/testing on BERT model performance
+BERT_Entire_training.ipynb: The notebook for training/testing on BERT model performance
 
 LSTM_keras.ipynb: The notebook for training/testing on LSTM model performance (wrote in Keras)
 
