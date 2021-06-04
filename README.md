@@ -9,7 +9,7 @@ are the results of 8:2 spliting of the original train.csv (We do our fine tuning
 
 
 ## Notebooks
-### Note: all the file paths are in local (i.e: train_path=pd.read_csv("./data/train.csv"), please create a local folder for data to store the CSVs if you would like to run the code. Also, unzip the embedding zip files from kaggle and put the unzipped folder in the data folder as well.(so data contains all the CSVs and a folder called embeddings) This is similar to the way we run our code in Google Colab in shared drive.
+### Note: all the file paths are in local (i.e: train_path=pd.read_csv("./data/train.csv"), please create a local folder for data to store the CSVs if you would like to run the code. Also, unzip the embedding zip files from kaggle and put the unzipped folder in the data folder as well.(so data folder contains all the CSVs and a folder called embeddings) This is similar to the way we run our code in Google Colab in shared drive.
 logistic_regression.ipynb: The notebook for running logisitic regression
 
 CNN.ipynb:  The notebook for training/testing on CNN model performance
